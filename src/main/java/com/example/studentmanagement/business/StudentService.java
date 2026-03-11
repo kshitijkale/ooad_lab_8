@@ -1,7 +1,7 @@
-package com.example.studentmanagement.service;
+package com.example.studentmanagement.business;
 
-import com.example.studentmanagement.model.Student;
-import com.example.studentmanagement.repository.StudentRepository;
+import com.example.studentmanagement.entities.Student;
+import com.example.studentmanagement.repositories.StudentRepository;
 
 /**
  * Service layer for student business logic.

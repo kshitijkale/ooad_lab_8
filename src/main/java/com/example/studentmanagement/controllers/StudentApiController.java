@@ -1,7 +1,7 @@
-package com.example.studentmanagement.controller;
+package com.example.studentmanagement.controllers;
 
-import com.example.studentmanagement.model.Student;
-import com.example.studentmanagement.service.StudentService;
+import com.example.studentmanagement.entities.Student;
+import com.example.studentmanagement.business.StudentService;
 
 /**
  * REST API controller for student CRUD operations.
